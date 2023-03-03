@@ -11,3 +11,4 @@ The main idea behind `SHP-SimResults` is to make the data and results of the sim
 ## References
 Jonas, D., 2023. Model-based Analysis of Solar and Heat Pump Systems for the Energy Supply of Residential Buildings. PhD thesis, Saarland University, Saarbrücken, Germany (not published, currently under review).
 
+[![DOI](https://zenodo.org/badge/531940749.svg)](https://zenodo.org/badge/latestdoi/531940749)
